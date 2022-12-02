@@ -2,6 +2,11 @@ package Proyecto_Final_FC3;
 
 import java.util.Scanner;
 
+/*Equipo:
+Figueroa Hernández Sofia Belem
+Matus Valencia Elda Berenice
+*/
+
 public class MainBlockchain {
 
 	public static void main(String args[]) {
