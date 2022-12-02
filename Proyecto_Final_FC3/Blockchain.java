@@ -3,6 +3,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/*Equipo:
+Figueroa Hernández Sofia Belem
+Matus Valencia Elda Berenice
+*/
+
 public class Blockchain {
 
 	private List<Bloque> blockchain;
