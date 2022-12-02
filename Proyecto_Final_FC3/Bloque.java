@@ -5,7 +5,10 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Date;
 
-
+/*Equipo:
+Figueroa Hernández Sofia Belem
+Matus Valencia Elda Berenice
+*/
 
 public class Bloque {
 
